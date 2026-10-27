@@ -24,20 +24,3 @@
 
 _What counts as a pass, and anything that fails it outright._
 
-Checking
-AI generating the specification document for the developers to build
-
-User feedback
-Signal: Specification documents that have an overlap in the features that are built
-
-How often: Check on every completed cycle - so end of every week before the model pulls more data and provides additional specifications
-
-Human evaluation
-Who and how many: PM checks specifications and 1 out of 5 are duplicates or do not have a correct use-case
-
-Scored against: The team’s human eval rubric based on business requirements - check for accuracy, missing risks, and tone.
-
-Automated assessment
-Check: Specifications design for each developer -does not have the tech stack detailed out
-
-Fails when: missing tech stack and design should be failed eval
